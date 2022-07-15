@@ -6,4 +6,10 @@ int result = (x1*10 + x2);
 Console.WriteLine(result);
 
 
+ИЛИ
+
+Console.Write(Convert.ToString(x)[0]);
+Console.Write(Convert.ToString(x)[2]);
+
+
 
