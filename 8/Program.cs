@@ -6,5 +6,5 @@ if (a % b == 0);
 else
 {
     Console.WriteLine("Остаток при де");
-    Console.WriteLine(a % b);
+    Console.Write(a % b);
 }
